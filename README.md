@@ -1,6 +1,4 @@
-# pro-readme-generator
-
-#  Readme Generator
+#  Professional Readme Generator
   ![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
