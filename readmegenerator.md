@@ -1,4 +1,4 @@
-  #  Readme Generate
+  #  Readme Generator
   ![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
@@ -22,13 +22,13 @@
     This application is covered by the MIT license.
 
 ## Contributing
-  Any contribution is more than welcome
+  Any contribution is more than welcome.
 
 ## Test Instructions
-  just answer the questions in the command-line
+  Answer all the questionsin the comman-line
 
 ## Questions
-If you have any question, Email me at: jordynenos11@gmail.com
+If you have any question, Email me at: jordynenos@gmail.com 
   
   Find me on GitHub: [Lauracejas](https://github.com/JordynEnos)   
   
