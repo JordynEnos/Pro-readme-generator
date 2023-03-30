@@ -56,7 +56,7 @@ function renderLicenseBadge(license) {
     Find me on GitHub: [${data.username}](https://github.com/${data.username})   
     
     ---
-    _This README was generated with ❤️ by [README-generator](https://github.com/Lauracejas/Professional-README-Generator) © 2021_
+    _This README was generated with ❤️ by [README-generator](https://github.com/JordynEnos) © 2021_
   `;
   }
   
